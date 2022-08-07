@@ -18,8 +18,8 @@
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="5" lineNum="37" parent="globals/NotesApp" pc="268435671" symbol="onSettingsChanged"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="5" lineNum="39" parent="globals/NotesApp" pc="268435678" symbol="onSettingsChanged"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="5" lineNum="41" parent="globals/NotesApp" pc="268435682" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="6" lineNum="3" parent="globals/NotesApp" pc="268440999" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="6" lineNum="3" parent="globals/NotesApp" pc="268440999" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="6" lineNum="3" parent="globals/NotesApp" pc="268440994" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesApp.mc" id="6" lineNum="3" parent="globals/NotesApp" pc="268440994" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="8" lineNum="6" parent="globals/NotesView" pc="268435695" symbol="initialize"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="8" lineNum="7" parent="globals/NotesView" pc="268435699" symbol="initialize"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="9" lineNum="12" parent="globals/NotesView" pc="268435718" symbol="onLayout"/>
@@ -183,11 +183,11 @@
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="10" lineNum="299" parent="globals/NotesView" pc="268438662" symbol="requestUpdate"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="10" lineNum="300" parent="globals/NotesView" pc="268438680" symbol="requestUpdate"/>
         <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="10" lineNum="302" parent="globals/NotesView" pc="268438697" symbol="requestUpdate"/>
-        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="11" lineNum="3" parent="globals/NotesView" pc="268440980" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="11" lineNum="3" parent="globals/NotesView" pc="268440980" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="13" lineNum="2" parent="globals/Rez/Drawables" pc="268440974" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="14" lineNum="6" parent="globals/Rez/Fonts" pc="268440976" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="15" lineNum="8" parent="globals/Rez/JsonData" pc="268440978" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="11" lineNum="3" parent="globals/NotesView" pc="268440975" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\wouterd\\eclipse-workspace\\Notes\\source\\NotesView.mc" id="11" lineNum="3" parent="globals/NotesView" pc="268440975" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="13" lineNum="2" parent="globals/Rez/Drawables" pc="268440969" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="14" lineNum="6" parent="globals/Rez/Fonts" pc="268440971" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="15" lineNum="8" parent="globals/Rez/JsonData" pc="268440973" symbol="&lt;init&gt;"/>
         <entry filename="Rez" id="16" lineNum="17" parent="globals/Rez/Layouts" pc="268438715" symbol="MainLayout"/>
         <entry filename="Rez" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268438727" symbol="MainLayout"/>
         <entry filename="Rez" id="16" lineNum="21" parent="globals/Rez/Layouts" pc="268438840" symbol="MainLayout"/>
@@ -208,9 +208,9 @@
         <entry filename="Rez" id="16" lineNum="36" parent="globals/Rez/Layouts" pc="268440535" symbol="MainLayout"/>
         <entry filename="Rez" id="16" lineNum="37" parent="globals/Rez/Layouts" pc="268440648" symbol="MainLayout"/>
         <entry filename="Rez" id="16" lineNum="39" parent="globals/Rez/Layouts" pc="268440761" symbol="MainLayout"/>
-        <entry filename="Rez" id="17" lineNum="10" parent="globals/Rez/Layouts" pc="268440977" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="18" lineNum="44" parent="globals/Rez/Menus" pc="268440975" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="19" lineNum="46" parent="globals/Rez/Strings" pc="268440979" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="17" lineNum="10" parent="globals/Rez/Layouts" pc="268440972" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="18" lineNum="44" parent="globals/Rez/Menus" pc="268440970" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="46" parent="globals/Rez/Strings" pc="268440974" symbol="&lt;init&gt;"/>
         <entry filename="Rez" id="20" lineNum="1" parent="globals/Rez" pc="268440950" symbol="&lt;init&gt;"/>
         <entry filename="Rez" id="20" lineNum="1" parent="globals/Rez" pc="268440950" symbol="&lt;init&gt;"/>
     </pcToLineNum>
@@ -226,10 +226,10 @@
         <entry field="true" id="69" symbol="Line28"/>
         <entry field="true" id="70" symbol="Line27"/>
         <entry field="true" id="71" symbol="Line26"/>
-        <entry field="true" id="78" symbol="Line25"/>
-        <entry field="true" id="80" symbol="Line24"/>
-        <entry field="true" id="82" symbol="Line23"/>
-        <entry field="true" id="84" symbol="Line22"/>
+        <entry field="true" id="79" symbol="Line25"/>
+        <entry field="true" id="81" symbol="Line24"/>
+        <entry field="true" id="83" symbol="Line23"/>
+        <entry field="true" id="85" symbol="Line22"/>
         <entry field="true" id="72" symbol="Line21"/>
         <entry field="true" id="74" symbol="Line20"/>
         <entry field="true" id="26" symbol="Line19"/>
@@ -273,9 +273,9 @@
         <entry field="true" id="42" symbol="Line6"/>
         <entry field="true" id="40" symbol="Line5"/>
         <entry field="true" id="38" symbol="Line4"/>
-        <entry field="true" id="83" symbol="Line3"/>
-        <entry field="true" id="81" symbol="Line2"/>
-        <entry field="true" id="79" symbol="Line1"/>
+        <entry field="true" id="84" symbol="Line3"/>
+        <entry field="true" id="82" symbol="Line2"/>
+        <entry field="true" id="80" symbol="Line1"/>
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry id="8389349" symbol="justification"/>
         <entry field="true" id="11" symbol="dc"/>
@@ -286,7 +286,7 @@
         <entry field="true" id="44" symbol="MaxValueErrorMessage30"/>
         <entry field="true" id="75" symbol="MaxValueErrorMessage29"/>
         <entry field="true" id="73" symbol="MaxValueErrorMessage28"/>
-        <entry field="true" id="77" symbol="MaxValueErrorMessage27"/>
+        <entry field="true" id="78" symbol="MaxValueErrorMessage27"/>
         <entry field="true" id="76" symbol="MaxValueErrorMessage26"/>
         <entry field="true" id="59" symbol="MaxValueErrorMessage25"/>
         <entry field="true" id="58" symbol="MaxValueErrorMessage24"/>
@@ -317,6 +317,7 @@
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="77" symbol="AppName2"/>
         <entry field="true" id="37" symbol="device"/>
         <entry id="10" object="true" symbol="NotesApp"/>
         <entry id="13" module="true" symbol="Layouts"/>
@@ -415,6 +416,7 @@
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Line20"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MaxValueErrorMessage29"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MaxValueErrorMessage26"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName2"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MaxValueErrorMessage27"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Line25"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Line1"/>
@@ -433,8 +435,8 @@
         <dataEntry label="globals/Rez/Layouts" offset="346" parentId="Rez" symbolId="Layouts" type="module"/>
         <dataEntry label="globals/Rez/JsonData" offset="385" parentId="Rez" symbolId="JsonData" type="module"/>
         <dataEntry label="globals/Rez/Strings" offset="416" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/NotesView" offset="991" parentId="globals" symbolId="NotesView" type="class"/>
-        <dataEntry label="globals/NotesApp" offset="1054" parentId="globals" symbolId="NotesApp" type="class"/>
+        <dataEntry label="globals/NotesView" offset="999" parentId="globals" symbolId="NotesView" type="class"/>
+        <dataEntry label="globals/NotesApp" offset="1062" parentId="globals" symbolId="NotesApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="NotesApp" startPc="268435456">
@@ -454,7 +456,7 @@
         <functionEntry accessMode="public" endPc="268435694" name="onSettingsChanged" parent="NotesApp" startPc="268435625">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268441017" name="&lt;init&gt;" parent="NotesApp" startPc="268440999">
+        <functionEntry accessMode="protected" endPc="268441012" name="&lt;init&gt;" parent="NotesApp" startPc="268440994">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435717" name="initialize" parent="NotesView" startPc="268435695">
@@ -467,32 +469,32 @@
         <functionEntry accessMode="public" endPc="268438714" name="requestUpdate" parent="NotesView" startPc="268435782">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440998" name="&lt;init&gt;" parent="NotesView" startPc="268440980">
+        <functionEntry accessMode="protected" endPc="268440993" name="&lt;init&gt;" parent="NotesView" startPc="268440975">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440974" name="&lt;init&gt;" parent="Drawables" startPc="268440974">
+        <functionEntry accessMode="protected" endPc="268440969" name="&lt;init&gt;" parent="Drawables" startPc="268440969">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440976" name="&lt;init&gt;" parent="Fonts" startPc="268440976">
+        <functionEntry accessMode="protected" endPc="268440971" name="&lt;init&gt;" parent="Fonts" startPc="268440971">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440978" name="&lt;init&gt;" parent="JsonData" startPc="268440978">
+        <functionEntry accessMode="protected" endPc="268440973" name="&lt;init&gt;" parent="JsonData" startPc="268440973">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268440948" name="MainLayout" parent="Layouts" startPc="268438715">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440977" name="&lt;init&gt;" parent="Layouts" startPc="268440977">
+        <functionEntry accessMode="protected" endPc="268440972" name="&lt;init&gt;" parent="Layouts" startPc="268440972">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440975" name="&lt;init&gt;" parent="Menus" startPc="268440975">
+        <functionEntry accessMode="protected" endPc="268440970" name="&lt;init&gt;" parent="Menus" startPc="268440970">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440979" name="&lt;init&gt;" parent="Strings" startPc="268440979">
+        <functionEntry accessMode="protected" endPc="268440974" name="&lt;init&gt;" parent="Strings" startPc="268440974">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440973" name="&lt;init&gt;" parent="Rez" startPc="268440950">
+        <functionEntry accessMode="protected" endPc="268440968" name="&lt;init&gt;" parent="Rez" startPc="268440950">
             <documentation/>
         </functionEntry>
     </functions>
