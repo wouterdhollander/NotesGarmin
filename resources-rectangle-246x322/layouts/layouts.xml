@@ -1,0 +1,29 @@
+<layouts>
+    <!-- A generic, centered layout. -->
+    <layout id="MainLayout">
+
+        <label id="label1" x="0" y="5"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label2" x="0" y="20"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label3" x="0" y="35"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label4" x="0" y="50"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label5" x="0" y="65"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label6" x="0" y="80"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label7" x="0" y="95"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label8" x="0" y="110"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label9" x="0" y="125"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label10" x="0" y="140"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label11" x="0" y="155"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label12" x="0" y="170"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label13" x="0" y="185"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label14" x="0" y="200"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label15" x="0" y="215"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label16" x="0" y="230"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label17" x="0" y="245"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+      	<label id="label18" x="0" y="260"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+        <label id="label19" x="0" y="275"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+         <label id="label20" x="0" y="290"  justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_TINY" />
+         
+           
+    </layout>
+
+</layouts>

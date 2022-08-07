@@ -1,0 +1,66 @@
+<resources>
+	<properties>
+   		<property id="INPUT1" type="string"></property>
+		<property id="INPUT2" type="string">1k Mt Selle</property>
+		<property id="INPUT3" type="string">-> 11k 8.1%</property>
+		<property id="INPUT4" type="string">29k Col fxde la Biche</property>
+		<property id="INPUT5" type="string">-> 6.9k 8.9%</property>
+		<property id="INPUT6" type="string">74k Grand fx Colombière</property>
+		<property id="INPUT7" type="string">-> 17.4k fx 7.1%</property>
+		<property id="INPUT8" type="string"></property>
+		<property id="INPUT9" type="string"></property>
+		<property id="INPUT10" type="string"></property>
+		<property id="INPUT11" type="string"></property>
+		<property id="INPUT12" type="string"></property>
+		<property id="INPUT13" type="string"></property>
+		<property id="INPUT14" type="string"></property>
+	</properties>
+
+	<settings>
+		<setting propertyKey="@Properties.INPUT1" title="@Strings.Line1">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "10" errorMessage="@Strings.MaxValueErrorMessage10"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT2" title="@Strings.Line2">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "15" errorMessage="@Strings.MaxValueErrorMessage15"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT3" title="@Strings.Line3">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "18" errorMessage="@Strings.MaxValueErrorMessage18"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT4" title="@Strings.Line4">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "20" errorMessage="@Strings.MaxValueErrorMessage20"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT5" title="@Strings.Line5">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "22" errorMessage="@Strings.MaxValueErrorMessage22"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT6" title="@Strings.Line6">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "23" errorMessage="@Strings.MaxValueErrorMessage23"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT7" title="@Strings.Line7">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "24" errorMessage="@Strings.MaxValueErrorMessage24"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT8" title="@Strings.Line8">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "24" errorMessage="@Strings.MaxValueErrorMessage24"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT9" title="@Strings.Line9">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "23" errorMessage="@Strings.MaxValueErrorMessage23"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT10" title="@Strings.Line10">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "22" errorMessage="@Strings.MaxValueErrorMessage22"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT11" title="@Strings.Line11">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "21" errorMessage="@Strings.MaxValueErrorMessage21"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT12" title="@Strings.Line12">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "18" errorMessage="@Strings.MaxValueErrorMessage18"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT13" title="@Strings.Line13">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "16" errorMessage="@Strings.MaxValueErrorMessage16"/>
+		</setting>
+		<setting propertyKey="@Properties.INPUT14" title="@Strings.Line14">
+			<settingConfig type="alphaNumeric" required="false" maxLength= "11" errorMessage="@Strings.MaxValueErrorMessage11"/>
+		</setting>
+	</settings>
+		
+
+
+</resources>
